@@ -1,3 +1,6 @@
+# Travelling salesman problem brute force and heuristic solutions
+# Budnik Andrew, 2013. Public domain.
+
 import random
 import itertools
 
