@@ -1,0 +1,12 @@
+[user]
+email = budnik27@gmail.com
+name = abudnik
+
+[color]
+ui = auto
+
+[core]
+autocrlf = input
+
+[alias]
+hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
